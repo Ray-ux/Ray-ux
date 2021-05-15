@@ -1,5 +1,5 @@
 ### Ray 👋
-- 😀 My Name is Zhangliewen.
+- 😀 My Name is LieWen Zhang.
 - 🏛️ My hometown is Chongqing.
 - 🖥️ I am a Java backend developer.
 - 🏫 I’m  studying in Chongqing University of Posts and Telecomunications.
