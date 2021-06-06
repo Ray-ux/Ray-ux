@@ -1,6 +1,6 @@
 ### Ray 👋
 - 😀 My Name is LieWen Zhang.
-- 🖥️ I am a Java backend developer.
+- 🖥️ Although i am a Java backend developer now, My dream of becoming a full stack engineer.
 - 🏫 I’m  studying in Chongqing University of Posts and Telecomunications.
 
 
