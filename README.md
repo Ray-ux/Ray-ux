@@ -1,6 +1,6 @@
 ### Ray 👋
 - 😀 My name is Ray.
-- 🖥️ Although i am a Java backend developer now, My dream of becoming a full stack engineer.
+- 🖥️ Although i am a Java backend developer now, My dream of becoming a System Architect.
 - 🏫 I’m  studying in Chongqing University of Posts and Telecomunications.
 
 
