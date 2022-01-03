@@ -8,7 +8,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ray-ux&count_private=true&show_icons=truee&theme=radica" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
