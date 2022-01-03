@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ray-ux&count_private=true&show_icons=truee&theme=radica" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
 (https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-ux&layout=compact)
-  </a>
+
 
