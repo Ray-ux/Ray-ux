@@ -1,7 +1,5 @@
 ### Ray 👋
-- 😀 My name is Ray.
-- 🖥️ Although i am a Java backend developer now, My dream of becoming a System Architect.
-- 🏫 I’m  studying in Chongqing University of Posts and Telecomunications.
+- talk is cheap show me the code
 
 
 -----
