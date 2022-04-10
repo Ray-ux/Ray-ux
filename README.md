@@ -1,5 +1,4 @@
-### Ray 👋
-- talk is cheap show me the code
+### Talk is cheap Show me the code
 
 
 -----
